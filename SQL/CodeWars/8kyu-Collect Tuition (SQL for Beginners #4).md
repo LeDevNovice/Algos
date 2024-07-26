@@ -1,7 +1,9 @@
 # Collect Tuition (SQL for Beginners #4)
 ```sql
-SELECT name, age, semester, mentor, tuition_received
-FROM students 
+SELECT 
+  name, age, semester, mentor, tuition_received
+FROM 
+  students 
 WHERE 
   NOT tuition_received;
 ```
