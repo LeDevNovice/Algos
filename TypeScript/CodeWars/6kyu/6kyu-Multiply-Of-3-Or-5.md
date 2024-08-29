@@ -14,4 +14,4 @@ export class Challenge {
 }
 ```
 
-_There seems to have a solution that involve some mathematics knowledge and improve readability and avoir the use of a for loop. That is some knowledge that I dont have and can be helpful at some time to have some solution like this at some problems._
+_There seems to have a solution that involve some mathematics knowledge with arithmetic progression and improve readability and avoir the use of a for loop. That is some knowledge that I dont have and can be helpful at some time to have some solution like this at some problems._
